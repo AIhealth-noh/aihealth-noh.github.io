@@ -1,6 +1,6 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 
-cv_pdf: /assets/pdf/202604_CV.pdf # path to your CV PDF file
+cv_pdf: /assets/pdf/CV_minho.pdf # path to your CV PDF file
 email: mho95@naver.com
 github_username: NOHMINHO950123
