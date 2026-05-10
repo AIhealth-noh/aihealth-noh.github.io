@@ -2,33 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: AI Researcher at <a href='https://www.samsunghospital.com/' target='_blank'>Samsung Medical Center</a>. Multimodal AI · Multi-omics · Agentic Systems.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>📍 Seoul, South Korea</p>
+    <p>📧 mho95@naver.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm **Minho Noh**. I am currently an **AI Researcher** at **Samsung Medical Center, Department of Gastroenterology**, where I develop multimodal AI models for the precision diagnosis of rare liver diseases. I received my **M.S. in Computer Science and Artificial Intelligence** from Dongguk University (Major GPA 4.18/4.5), and my **B.S. in Computer Science** from Kwangwoon University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research centers on **AI for Omics**. Building on my earlier work in single-cell and spatial transcriptomics — including DEG/DA analysis, spatial domain clustering, and biomarker discovery via multi-omics integration — I have developed **interpretable multimodal models (XAI)** that combine histopathology images with biological knowledge such as KEGG pathways. This line of work was published in *Briefings in Bioinformatics* (IF 7.7, JCR top 2.2%).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently extending this direction in two ways: **(1) multimodal AI for rare liver disease diagnosis**, integrating histopathology, transcriptomics, and clinical data; and **(2) a multi-agent framework for automated multi-omics analysis (MAMA)**, built on LangGraph with debate-style reasoning and RAG-based interpretation.
+
+My broader research interests include **multi-modality**, **multi-omics analysis**, **agentic AI**, **computer vision**, and **graph learning** — and how these can come together to make AI both more capable and more interpretable in real clinical settings.
+
+If you'd like to connect, please feel free to reach out via [email](mailto:mho95@naver.com) or [GitHub](https://github.com/NOHMINHO950123).
