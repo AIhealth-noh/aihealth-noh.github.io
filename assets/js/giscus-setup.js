@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "AIhealth-noh/Alhealth-noh.github.io",
+    "data-repo": "AIhealth-noh/aihealth-noh.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
