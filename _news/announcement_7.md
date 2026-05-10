@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01
+date: 2024-11
 inline: true
 related_posts: false
 ---
 
-Korea Patent registered: *Pathway-augmented contrastive learning system for spatial segmentation of histopathological images* (KR 10-0003967) 📜
+Oral presentation at **2024 한국방송·미디어공학회** — *Pathway-Augmented Contrastive Learning with Attention for Spatial Transcriptomics* 🎤
