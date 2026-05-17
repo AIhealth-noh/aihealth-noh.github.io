@@ -28,7 +28,7 @@ Hi! I'm **Minho Noh**. I am currently an **AI Researcher** at **Samsung Medical 
 
 My research centers on **AI for Omics**. Building on my earlier work in single-cell and spatial transcriptomics — including DEG/DA analysis, spatial domain clustering, and biomarker discovery via multi-omics integration — I have developed **interpretable multimodal models (XAI)** that combine histopathology images with biological knowledge such as KEGG pathways. This line of work was published in *Briefings in Bioinformatics* (IF 7.7, JCR top 2.2%).
 
-I am currently extending this direction in two ways: **(1) multimodal AI for rare liver disease diagnosis**, integrating histopathology, transcriptomics, and clinical data; and **(2) a multi-agent framework for automated multi-omics analysis (MAMA)**, built on LangGraph with debate-style reasoning and RAG-based interpretation.
+I am currently extending this direction in two ways: **(1) multimodal AI for rare liver disease diagnosis**, integrating histopathology, transcriptomics, and clinical data; and **(2) a multi-agent framework for automated multi-omics analysis**, built on LangGraph with debate-style reasoning and RAG-based interpretation.
 
 My broader research interests include **multi-modality**, **multi-omics analysis**, **agentic AI**, **computer vision**, and **graph learning** — and how these can come together to make AI both more capable and more interpretable in real clinical settings.
 
