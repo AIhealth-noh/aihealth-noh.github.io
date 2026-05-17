@@ -1,16 +1,28 @@
 ---
 ---
-
 @article{noh2026pathclast,
   abbr        = {BIB},
   bibtex_show = {true},
-  title       = {{PathCLAST}: pathway-augmented contrastive learning with attention for interpretable spatial transcriptomics},
-  author      = {Noh, Minho and Lee, S. and Kim, S. and Lim, S.},
-  journal     = {Briefings in Bioinformatics},
-  year        = {2026},
-  month       = {February},
-  publisher   = {Oxford University Press},
-  abstract    = {We propose an interpretable AI model that integrates gene expression, histopathology images, and biological prior knowledge (KEGG pathways) for spatial transcriptomics. Pathway-aware multimodal contrastive learning, combined with data augmentation strategies, improves spatial domain clustering accuracy and provides interpretable attention scores at the pathway level. The framework also reveals tumor-stage-specific characteristics and spatial heterogeneity, contributing to personalized treatment strategies.},
+  title={PathCLAST: pathway-augmented contrastive learning with attention for interpretable spatial transcriptomics},
+  author={Noh, Minho and Lee, Sungkyung and Kim, Sunghyun and Lim, Sangsoo},
+  journal={Briefings in Bioinformatics},
+  volume={27},
+  number={1},
+  pages={bbag029},
+  year={2026},
+  publisher={Oxford University Press}
+  abstract    = {Deciphering how molecular programs are spatially organized within tissues is pivotal for understanding tumor evolution and microenvi-
+ronmental interactions. Existing spatial transcriptomics tools either rely on gene-level features, ignoring the rich topology of biological
+pathways, or deliver black-box clusters with little mechanistic insight; thus, they limit their translational impact. A method that simulta-
+neously leverages pathway structures and spatially matched histopathology could produce domain delineations that are both accurate
+and biologically interpretable. We introduce PathCLAST (Pathway-augmented Contrastive Learning with Attention for interpretable Spatial
+Transcriptomics), which is a framework that integrates gene expression, histopathological images, and curated pathway graphs via bi-
+modal contrastive learning. By embedding expression profiles into b iologically structured graphs, and aligning them with local image
+features, PathCLAST achieves state-of-the-art spatial domain identification on multiple public datasets, while offering pathway-level
+attention scores for mechanistic interpretation. The pathway embedding also serves as an explicit, biology-informed dimensionality
+reduction scheme. PathCLAST not only uncovers domain-specific pathways and spatially organized signaling activities, but also quantifies
+intra-domain heterogeneity, spatial autocorrelation, and inter-domain crosstalk, providing fine-grained insights into tumor progression
+and tissue architecture.}
   selected    = {true},
 }
 
