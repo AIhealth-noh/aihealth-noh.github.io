@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Researcher at <a href='https://www.samsunghospital.com/' target='_blank'>Samsung Medical Center</a>. Multimodal AI · Multi-omics · Agentic Systems.
+subtitle: Researcher at <a href='https://www.kbsi.re.kr/' target='_blank'>Korea Basic Science Institute</a>. Medical Imaging AI · Multimodal AI · Multi-omics · Agentic Systems.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>📍 Seoul, South Korea</p>
+    <p>📍 Cheongju, South Korea</p>
     <p>📧 mho95@naver.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -24,12 +24,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm **Minho Noh**. I am currently an **AI Researcher** at **Samsung Medical Center, Department of Gastroenterology**, where I develop multimodal AI models for the precision diagnosis of rare liver diseases. I received my **M.S. in Computer Science and Artificial Intelligence** from Dongguk University (Major GPA 4.18/4.5), and my **B.S. in Computer Science** from Kwangwoon University.
+Hi! I'm **Minho Noh**. I am currently a **Researcher** at the **Korea Basic Science Institute (KBSI), Translational Bioimaging Research Team**, where I develop AI models for **medical image analysis across CT, MRI, and histopathology**. Previously, I was an AI Researcher at the Department of Gastroenterology, Samsung Medical Center, where I built multimodal AI models for the precision diagnosis of rare liver diseases. I received my **M.S. in Computer Science and Artificial Intelligence** from Dongguk University (Major GPA 4.18/4.5), and my **B.S. in Computer Science** from Kwangwoon University.
 
-My research centers on **AI for Omics**. Building on my earlier work in single-cell and spatial transcriptomics — including DEG/DA analysis, spatial domain clustering, and biomarker discovery via multi-omics integration — I have developed **interpretable multimodal models (XAI)** that combine histopathology images with biological knowledge such as KEGG pathways. This line of work was published in *Briefings in Bioinformatics* (IF 7.7, JCR top 2.2%).
+My research centers on **multimodal AI that connects medical imaging with molecular biology**. I started in AI for omics, working on single-cell and spatial transcriptomics — including DEG/DA analysis, spatial domain clustering, and biomarker discovery via multi-omics integration. From there, I moved toward **interpretable multimodal models (XAI)** that combine histopathology images with biological knowledge such as KEGG pathways, published in *Briefings in Bioinformatics* (IF 7.7, JCR top 2.2%).
 
-I am currently extending this direction in two ways: **(1) multimodal AI for rare liver disease diagnosis**, integrating histopathology, transcriptomics, and clinical data; and **(2) a multi-agent framework for automated multi-omics analysis**, built on LangGraph with debate-style reasoning and RAG-based interpretation.
+At KBSI, I am extending this work from histopathology to **multi-scale imaging — CT, MRI, and pathology** — aiming to link what we see at the organ and tissue level with the underlying molecular signals. In parallel, I continue developing a **multi-agent framework for automated multi-omics analysis**, built on LangGraph with debate-style reasoning and RAG-based interpretation.
 
-My broader research interests include **multi-modality**, **multi-omics analysis**, **agentic AI**, **computer vision**, and **graph learning** — and how these can come together to make AI both more capable and more interpretable in real clinical settings.
+My broader research interests include **medical image analysis**, **multi-modality**, **multi-omics analysis**, **agentic AI**, and **graph learning** — and how these can come together to make AI both more capable and more interpretable in real clinical settings.
 
 If you'd like to connect, please feel free to reach out via [email](mailto:mho95@naver.com) or [GitHub](https://github.com/NOHMINHO950123).
