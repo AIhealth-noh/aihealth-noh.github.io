@@ -24,11 +24,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm **Minho Noh**. I am currently a **Researcher** at the **[Korea Basic Science Institute (KBSI)](https://www.kbsi.re.kr/){:target="_blank"}, Translational Bioimaging Research Team**, where I develop AI models for **medical image analysis across CT, MRI, and histopathology**. Previously, I was an AI Researcher at the Department of Gastroenterology, [Samsung Medical Center](https://www.samsunghospital.com/){:target="_blank"}, where I built multimodal AI models for the precision diagnosis of rare liver diseases. I received my **M.S. in Computer Science and Artificial Intelligence** from [Dongguk University](https://www.dongguk.edu/){:target="_blank"} (Major GPA 4.18/4.5).
+Hi! I'm **Minho Noh**. I am currently a **Researcher** at the **[Korea Basic Science Institute (KBSI)](https://www.kbsi.re.kr/){:target="_blank"}, Translational Bioimaging Research Team**, where I develop AI models for **medical image analysis across CT, MRI, and histopathology**. Previously, I was an AI Researcher at the Department of Gastroenterology, [Samsung Medical Center](https://www.samsunghospital.com/){:target="_blank"}. I received my **M.S. in Computer Science and Artificial Intelligence** from [Dongguk University](https://www.dongguk.edu/){:target="_blank"} (Major GPA 4.18/4.5).
 
 My research centers on **multimodal AI that connects medical imaging with molecular biology**. I started in AI for omics, working on single-cell and spatial transcriptomics — including DEG/DA analysis, spatial domain clustering, and biomarker discovery via multi-omics integration. From there, I moved toward **interpretable multimodal models (XAI)** that combine histopathology images with biological knowledge such as KEGG pathways, published in *Briefings in Bioinformatics* (IF 7.7, JCR top 2.2%).
 
-At KBSI, I am extending this work from histopathology to **multi-scale imaging — CT, MRI, and pathology** — aiming to link what we see at the organ and tissue level with the underlying molecular signals. In parallel, I continue developing a **multi-agent framework for automated multi-omics analysis**, built on LangGraph with debate-style reasoning and RAG-based interpretation.
+At Samsung Medical Center, I built **multimodal AI models for rare liver disease diagnosis**, integrating histopathology, transcriptomics, and clinical data, and developed a **multi-agent framework for automated multi-omics analysis**, built on LangGraph with debate-style reasoning and RAG-based interpretation.
+
+At KBSI, I am extending this work to **multi-scale medical imaging**. Current projects include a **multimodal deep learning model integrating multiphase CT and EMR** to predict recurrence after liver radiofrequency ablation, and a **species- and platform-agnostic anomaly detection framework for histopathology**.
 
 My broader research interests include **medical image analysis**, **multi-modality**, **multi-omics analysis**, **agentic AI**, and **graph learning** — and how these can come together to make AI both more capable and more interpretable in real clinical settings.
 
