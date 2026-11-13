@@ -34,4 +34,6 @@ At KBSI, I am extending this work to **multi-scale medical imaging**. Current pr
 
 My broader research interests include **medical image analysis**, **multi-modality**, **multi-omics analysis**, **agentic AI**, and **graph learning** — and how these can come together to make AI both more capable and more interpretable in real clinical settings.
 
+For full CV, download [[__pdf__](/assets/pdf/CV_minho.pdf)]. Last updated on 11/2026.
+
 If you'd like to connect, please feel free to reach out via [email](mailto:mho95@naver.com) or [GitHub](https://github.com/NOHMINHO950123).
